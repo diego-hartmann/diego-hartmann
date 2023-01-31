@@ -1,4 +1,14 @@
-<div dir="auto">
+<style>
+    .container{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1.5rem;
+    }
+</style>
+<div dir="auto" class="container">
+
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"
 rel="nofollow">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="30" alt="C#" style="max-width: 100%;"></a>
@@ -13,12 +23,3 @@ rel="nofollow">
 <a href="https://www.mongodb.com/" rel="nofollow">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="30" height="30" alt="MongoDB" style="max-width: 100%;"></a>
 </div>
-<script>
-    document.querySelector('div[dir="auto"]').setAttribute("style",`
-        width: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 1.5rem;
-    `);
-</script>
