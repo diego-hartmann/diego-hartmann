@@ -1,13 +1,5 @@
-<style>
-    .container{
-        width: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 1.5rem;
-    }
-</style>
-<div dir="auto" class="container">
+
+<div dir="auto" >
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"
 rel="nofollow">
