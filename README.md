@@ -8,8 +8,6 @@ rel="nofollow">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" height="30" alt="React" style="max-width: 100%;"></a>
 <a href="https://nodejs.org/en/" rel="nofollow">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" style="max-width: 100%;"></a>
-<a href="https://expressjs.com/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="30" height="30" alt="Express" style="max-width: 100%;"></a>
 <a href="https://www.mongodb.com/" rel="nofollow">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="30" height="30" alt="MongoDB" style="max-width: 100%;"></a>
 </div>
