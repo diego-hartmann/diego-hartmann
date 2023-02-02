@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Diego Hartmann</h1>
+<h1 align="center">Diego Hartmann</h1>
 
-### 💻 Contact me: [diegohart.com](https://www.diegohart.com/)
-##
+💻 Contact me on: [diegohart.com](https://www.diegohart.com/)
+
 <div dir="auto" >
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"
 rel="nofollow">
