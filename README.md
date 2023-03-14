@@ -25,3 +25,8 @@ rel="nofollow">
 <a href="https://www.linkedin.com/in/diegohart/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
+ 
+ 
+<a href="https://www.linkedin.com/in/diegohart/" target="_blank">
+    <img src="https://img.shields.io/badge/-npm-%62014a?style=for-the-badge&logo=npm&logoColor=white" target="_blank">
+</a> 
